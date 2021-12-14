@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.9058042mm"
+   height="3.3083684mm"
+   viewBox="0 0 17.382771 11.722565"
+   id="svg7209"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="caret.svg">
+  <defs
+     id="defs7211" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-54.603391"
+     inkscape:cy="-10.297668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7214">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.1319652e-6,-1040.6397)">
+    <path
+       d="m 2.0766594,1043.2757 c 0.600041,0.1912 1.6685354,1.3804 3.205145,3.5687 1.5366788,2.1882 2.5601805,3.4303 3.0706385,3.7261 0.5104731,0.2958 1.0223467,0.3679 1.5356605,0.216 0.5133886,-0.1519 1.0671706,-0.6517 1.6614526,-1.4995 0.594281,-0.8478 1.409949,-1.7935 2.446954,-2.8371 1.037162,-1.0435 1.705232,-1.838 2.00442,-2.3834 0.299337,-0.5454 0.361142,-0.7719 0.185528,-0.6797 -0.175603,0.092 -0.403698,0.082 -0.684091,-0.031"
+       style="fill:none;stroke:#3c3c3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path426"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
