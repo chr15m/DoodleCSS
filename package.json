@@ -1,0 +1,25 @@
+{
+  "name": "doodle.css",
+  "version": "0.0.1",
+  "description": "A simple hand drawn HTML/CSS theme.",
+  "author": "Chris McCormick <chris@mccormick.cx>",
+  "homepage": "https://github.com/chr15m/DoodleCSS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chr15m/DoodleCSS.git",
+    "web": "https://github.com/chr15m/DoodleCSS"
+  },
+  "bugs": {
+    "url": "https://github.com/chr15m/DoodleCSS/issues/"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "css",
+    "theme",
+    "html",
+    "stylesheet",
+    "hand-drawn"
+  ]
+}

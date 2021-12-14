@@ -31,7 +31,7 @@ body {
 There's also an npm installable version:
 
 ```
-npm install doodlecss
+npm install doodle.css
 ```
 
 There are are bunch of other vectors you can use in [doodles.svg](./doodles.svg).
