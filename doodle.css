@@ -108,6 +108,7 @@
 }
 
 .doodle select {
+  -webkit-appearance: none;
   appearance: none;
   padding-right: 1.5em;
   background: url(caret.svg) no-repeat right transparent;
@@ -137,6 +138,7 @@
 }
 
 .doodle input[type="checkbox"], .doodle input[type="radio"] {
+  -webkit-appearance: none;
   appearance: none;
   outline: 0;
   background: transparent;
