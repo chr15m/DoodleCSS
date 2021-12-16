@@ -74,6 +74,7 @@
   border-width: 0px 6px 3px 6px;
   border-image: url(bq.svg) 0 6 3 6 stretch stretch;
   padding-left: 0.5em;
+  border-right-width: 0px;
 }
 
 .doodle pre {
