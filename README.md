@@ -34,6 +34,12 @@ There's also an npm installable version:
 npm install doodle.css
 ```
 
+The npm package can be imported with:
+
+```
+import 'doodle.css/doodle.css'
+```
+
 There are are bunch of other vectors you can use in [doodles.svg](./doodles.svg).
 
 You can also put a doodle box around anything using the class `.doodle .border` or `.doodle-border`.
