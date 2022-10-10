@@ -49,7 +49,7 @@
   border-image: url(button.svg) 10 10 10 10 stretch stretch;
 }
 
-.doodle button, .doodle input, .doodle select {
+.doodle button, .doodle input, .doodle select, .doodle input[type="file"]::file-selector-button {
   border-style: solid;
   border-width: 10px 10px 10px 10px;
   border-image: url(button.svg) 10 10 10 10 stretch stretch;
@@ -169,10 +169,6 @@
   font-family: inherit;
   font-size: 0.8em;
   font-size: 1em;
-  position: relative;
-  top: -2px;
-  margin-right: 8px;
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  border-color: black;
-  border-width: 3px;
+  background-color: unset;
+  color: #3c3c3c;
 }
