@@ -128,6 +128,10 @@
   color: #3c3c3c;
 }
 
+.doodle button, .doodle textarea, .doodle input, .doodle select:focus {
+  outline: none;
+}
+
 .doodle input[type="checkbox"] {
   border-width: 6px 6px 6px 6px;
   border-image: url(checkbox.svg) 6 6 6 6 stretch stretch;
