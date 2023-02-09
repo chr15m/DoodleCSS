@@ -44,14 +44,6 @@ There are are bunch of other vectors you can use in [doodles.svg](./doodles.svg)
 
 You can also put a doodle box around anything using the class `.doodle .border` or `.doodle-border`.
 
-# Sponsor
-
-[CSS Scan is the fastest easiest way to check, copy, and edit CSS](https://gumroad.com/a/142499667/fULny).
-It's like a souped-up devtools inspector with rockets attached.
-Thanks to [CSS Scan](https://gumroad.com/a/142499667/fULny) for sponsoring DoodleCSS!
-
-[![CSS Scan](css-scan.png)](https://gumroad.com/a/142499667/fULny)
-
 # Who
 
 By [Chris McCormick](https://mccormick.cx/) ([@mccrmx](https://twitter.com/mccrmx)).
