@@ -176,3 +176,10 @@
   background-color: unset;
   color: #3c3c3c;
 }
+
+.doodle button:focus-visible, .doodle textarea:focus-visible, .doodle input:focus-visible, .doodle select:focus-visible {
+  outline-offset: -8px;
+  outline: 2px dashed #3c3c3c;
+  /* outline: transparent;
+  filter: drop-shadow(0 0 3px #4d90fe) brightness(1.1) saturate(1.2); */
+}
